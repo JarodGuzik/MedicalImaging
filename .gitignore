@@ -1,0 +1,26 @@
+# ignore ALL files in ANY directory named temp
+temp/ 
+
+# ignore COVID
+COVID/
+
+# ignore Lung_Opacity
+Lung_Opacity/
+
+# ignore LungImages
+LungImages/
+
+# ignore LungMasks
+LungMasks/
+
+# ignore Normal
+Normal/
+
+# ignore Resources
+Resources/
+
+# ignore Viral_Pneumonia
+Viral_Pneumonia/
+
+# ignore ipynb_checkpoints
+ipynb_checkpoints/
