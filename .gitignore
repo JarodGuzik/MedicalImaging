@@ -24,3 +24,6 @@ Viral_Pneumonia/
 
 # ignore ipynb_checkpoints
 ipynb_checkpoints/
+
+# ignore .png images
+*.png
