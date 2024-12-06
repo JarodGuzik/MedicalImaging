@@ -27,3 +27,52 @@ ipynb_checkpoints/
 
 # ignore .png images
 *.png
+
+# ignore Dataset_HW4
+Dataset_HW4/
+
+# ignore voxelmorph
+voxelmorph/
+
+# ignore 3D-CNN-PyTorch
+3D-CNN-PyTorch/
+
+# ignore checkpoints
+checkpoints/
+
+# ignore ImagesAndMasks
+ImagesAndMasks/
+
+# ignore all the L2R datasets
+L2R_Taks1_CT/
+L2R_Task1_MR/
+L2R_Task1_MRCT_test/
+L2R_Task1_MRCT_Train/
+L2R_Task1_ROIs/
+
+# ignore NCC_method_model
+NCC_method_model/
+
+# ignore neurite
+neurite/
+
+# ignore ProsRegNet
+ProsRegNet/
+
+# ignore SSD_method_model
+SSD_method_model/
+
+# ignore voxelmorph
+voxelmorph/
+
+# ignore saved weights
+*.h5
+
+# ignore the medical image files
+*.nii.gz
+
+# ignore .txt files (likely readme)
+*.txt
+
+# ignore .pth checkpoint
+*.pth
